@@ -17,7 +17,7 @@ A simple neural network, learning a simple game, using [reinforcement learning](
 
 **Execution :**
 
-The most basic model is already provided 128-128-64-50000-25000.h5`  with the plotted graphs in `src/data`.
+The most basic model is already provided 128-128-64-50000-25000.h5`  with the plotted graphs learn_data-128-128-64-50000.csv.png.
 
 To train, run the `learning.py.
 
