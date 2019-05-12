@@ -1,6 +1,6 @@
 ## hack-on-hills
 
-## Project : Learner
+## Project : L-Bot
 
 A simple neural network, learning a simple game, using [reinforcement learning](https://www.analyticsvidhya.com/blog/2017/01/introduction-to-reinforcement-learning-implementation/) and epsilon greedy implementation.
 
@@ -17,9 +17,9 @@ A simple neural network, learning a simple game, using [reinforcement learning](
 
 **Execution :**
 
-The most basic model is already provided in `/src/models`  with the plotted graphs in `src/data`.
+The most basic model is already provided 128-128-64-50000-25000.h5`  with the plotted graphs in `src/data`.
 
-To train, run the `learning.py` from the `/src` directory.
+To train, run the `learning.py.
 
 To plot the results of training, run `plot.py`
 
